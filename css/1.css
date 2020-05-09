@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	font-family: Helevetica, Arial, sans serif;
+	line-height: 25px;
+}
+header{
+	background-color: #53CEE8
+
+}
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header img{
+        border-radius: 170px;
+    border: 10px solid white;
+}
+h1{
+	font-family: 'Marck Script', cursive;
+	font-size: 70px;
+	 }
+	 main{
+	 	max-width: 1000px;
+	 	margin: 0 auto;
+	 	padding: 20px
+	 }
+	 main img{
+	 	max-width: 100%;
+	 }
+	 h2{
+	 	font-family:  'Marck Script', cursive;
+	 	font-size: 50px;
+	 	color: #e70c19
+	 }
+	 p{
+	 	font-size: 20px;
+	 }
+	 ul{
+	 	font-size: 20px;
+	 	line-height: 35px;
+	 }
+	 a{
+	 	color: #e70c19
+	 }
+	 a:hover{
+	 	background-color: #483a94;
+	 	color: white;
+	 }
+	 footer{
+	 	color: white;
+	 	background-color: #4496DF;
+	 	padding: 50px;
+	 }
+	 footer p{
+	 	margin: 0px;
+	 }
+	 footer a{
+	 	color: white;
+	 }
+	 p.caption{
+	 	color: #999999;
+	 	font-style: italic;
+	 	margin-top: 0;
+	 }
